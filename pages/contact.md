@@ -3,4 +3,16 @@ layout: misc
 title: Contact
 ---
 
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Millennial%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/Millennial/issues/new).
+Feel free to send me an email if you want to get in touch, or find me on social media!
+
+**email**: gndowns (at) gmail (dot) com
+
+**instagram**: [the_gabe_gatsby](https://instagram.com/the_gabe_gatsby)
+
+**twitter**: [gab_downs](https://twitter.com/gab_downs)
+
+**SoundCloud**: [Gariel Downs](https://soundcloud.com/gabriel-downs)
+
+**facebook**: [Gabriel Downs](https://facebook.com/gndowns)
+
+I currently live in Montreal, Quebec, Canada.
