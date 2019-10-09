@@ -88,8 +88,11 @@ dd {
 */
 
 a {
-  color: $brand-color;
   text-decoration: none;
+}
+
+a.menu-link, a#site-title {
+  color: $brand-color;
 }
 
 /*
