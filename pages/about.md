@@ -19,5 +19,5 @@ You can read more about our work
 
 
 #### Acknowledgement
-This site was made with [Jekyll](https://jekyllrb.com/),
+This site was made with [Jekyll](https://jekyllrb.com/)
 using the [Millenial](https://github.com/LeNPaul/Millennial) theme.
