@@ -1,6 +1,6 @@
 ---
 layout: misc
-title: About
+title: About Me
 ---
 
 My name is Gabriel Downs. I currently live in Montreal, Quebec, Canada.
