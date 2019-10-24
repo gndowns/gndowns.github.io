@@ -2,6 +2,7 @@
 layout: post
 title: "Paper Accepted to CVPR 2019"
 author: "Gabriel Downs"
+categories: posts
 image: scene_symmetry.png
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "SketchWave"
 author: "Gabriel Downs"
-categories: fun-links
+categories: [posts, fun-links]
 image: sketchwave.png
 ---
 

@@ -6,7 +6,7 @@ title: Home
 <p style="margin-left:12px">Hi, I'm <b>Gabriel Downs.</b>
 </p>
 
-{% for post in paginator.posts %}
+{% for post in site.categories.posts %}
 
 <article>
   <a href="{{ site.github.url }}{{ post.url }}">
