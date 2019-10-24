@@ -8,6 +8,7 @@ google-ID: 'UA-112060364-2'
 
 menu:
 - {name: 'Open Source', folder: 'pages', file: 'open_source.html'}
+- {name: 'Montreal', folder: 'pages', file: 'montreal.html'}
 - {name: 'Mixing', folder: 'pages', file: 'mixing.html'}
 - {name: 'Fun Links', folder: 'pages', file: 'fun_links.html'}
 - {name: 'About Me', folder: 'pages', file: 'about_me.html'}
