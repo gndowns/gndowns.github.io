@@ -3,7 +3,8 @@
   margin: 5px 10px 10px;
   background-position: center;
   background-repeat: no-repeat;
-  background-size: cover;
+  // Scale background image to fit inside div (no cropping)
+  background-size: contain;
   position: relative;
 }
 .featured-posts h2 {
