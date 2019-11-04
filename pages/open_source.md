@@ -13,9 +13,18 @@ by [Jan Liphardt](https://liphardtlab.stanford.edu/) of Stanford University.
 I added a feature to allow for a different number of filters at each layer of
 the generated CNNs.
 
+- [AOF Skeletons](https://github.com/mrezanejad/AOFSkeletons):
+A library for computing the medial axis of binary images, designed in Prof.
+Siddiqi's [lab](https://www.cim.mcgill.ca/~shape/) at McGill.
+I wrote all documentation.
+
 ### Projects I Use and Support
 - [mixxx](https://mixxx.org): A great free and open souce program for live 
 DJing.
+
+- [Keras](https://keras.io): My preferred library for all deep learning work.
+Plays well with [TensorFlow](https://www.tensorflow.org).
+Code is available on [github](https://github.com/keras-team/keras).
 
 - [DVC](https://https://dvc.org/): A tool to version control your datasets,
 hyperparameters, and results for machine learning experiments.
