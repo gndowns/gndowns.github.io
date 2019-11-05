@@ -3,6 +3,7 @@ layout: misc
 title: Open Source
 ---
 
+I am a big fan of free and open source software.
 Here are some of my favourite open source projects which I contribute to, use,
 or otherwise support.
 
@@ -28,3 +29,7 @@ Code is available on [github](https://github.com/keras-team/keras).
 
 - [DVC](https://https://dvc.org/): A tool to version control your datasets,
 hyperparameters, and results for machine learning experiments.
+
+### My Own Repos
+I maintain all of my own open source projects on GitHub.
+You can find them on my GitHub [profile](https://github.com/gndowns).
