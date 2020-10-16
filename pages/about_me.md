@@ -3,11 +3,10 @@ layout: misc
 title: About Me
 ---
 
-My name is Gabriel Downs. I currently live in Montreal, Quebec, Canada.
-I graduated in May, 2019 from McGill University with a B.A. in Honours Math and
-Computer Science. 
+I graduated in May, 2019 from McGill University with
+a B.A. in Honours Math and Computer Science. 
 I now work as a software developer and researcher in the
-[metalab](https://sat.qc.ca/en/recherche/metalab) at the
+[Metalab](https://sat.qc.ca/en/recherche/metalab) at the
 [Société des arts technologiques](https://sat.qc.ca/en) in Montreal.
 
 While at McGill I worked as a Computer Vision researcher with
