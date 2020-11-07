@@ -16,7 +16,8 @@ and
 in the
 [Shape Analysis Group](http://www.cim.mcgill.ca/~shape/?page=main)
 at the Centre for Intelligent Machines.
-You can read more about our work
+Within the group I helped examine the role of contour geometry in human and
+computer vision for scene categorization. You can read more about our work
 [here]({% link _posts/2019-10-08-paper-accepted-to-cvpr.md %}).
 
 
