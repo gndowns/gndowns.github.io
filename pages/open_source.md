@@ -8,6 +8,9 @@ Here are some of my favourite open source projects which I contribute to, use,
 or otherwise support.
 
 ### Contributions
+- [Metalab](https://gitlab.com/sat-metalab):
+I currently work at the Metalab at the [SAT](https://sat.qc.ca/en) in Montreal.
+All of our projects are open source and available on GitLab.
 - [DeepEvolve](https://https://github.com/jliphard/DeepEvolve):
 Hyperparameter search for neural networks using genetic algorithms,
 by [Jan Liphardt](https://liphardtlab.stanford.edu/) of Stanford University.
