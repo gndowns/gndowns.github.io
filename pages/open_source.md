@@ -11,7 +11,7 @@ or otherwise support.
 - [Metalab](https://gitlab.com/sat-metalab):
 I currently work at the Metalab at the [SAT](https://sat.qc.ca/en) in Montreal.
 All of our projects are open source and available on GitLab.
-- [DeepEvolve](https://https://github.com/jliphard/DeepEvolve):
+- [DeepEvolve](https://github.com/jliphard/DeepEvolve):
 Hyperparameter search for neural networks using genetic algorithms,
 by [Jan Liphardt](https://liphardtlab.stanford.edu/) of Stanford University.
 I added a feature to allow for a different number of filters at each layer of
