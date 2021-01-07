@@ -5,7 +5,7 @@ title: About Me
 
 I graduated in May, 2019 from McGill University with
 a B.A. in Honours Math and Computer Science. 
-I now work as a software developer and researcher in the
+I am now a software developer and researcher in the
 [Metalab](https://sat.qc.ca/en/recherche/metalab) at the
 [Société des arts technologiques](https://sat.qc.ca/en) in Montreal, where I
 develop open source software for immersive audio and video.
